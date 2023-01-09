@@ -1,2 +1,2 @@
-# hug
+# Hug
 A human user guide
