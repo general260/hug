@@ -1,6 +1,6 @@
 ## About me
 
-Welcome to my human user guide, inspired by Chris Young. I'm a web developer and product manager who is in love with road trips. With a degree in computer science, I have actively understood the concept of basic programming for over 10 years and I'm constantly learning. I listen to music all the time and enjoy reading when I have to. I'm an introvert and a jovial outgoing mate, at the same time. I believe in travelling and writing, travelling because it exposes you in ways that are only possible through experience and not tales or pictures, and writing because of how much you can express your thoughts in words, its limitless. 
+Welcome to my human user guide, I'm a web developer and product manager who is in love with road trips. With a degree in computer science, I have actively understood the concept of basic programming for over 10 years and I'm constantly learning. I listen to music all the time and enjoy reading when I have to. I'm an introvert and a jovial outgoing mate, at the same time. I believe in travelling and writing, travelling because it exposes you in ways that are only possible through experience and not tales or pictures, and writing because of how much you can express your thoughts in words, its limitless. 
 
 ## Values 
 
@@ -12,7 +12,7 @@ Welcome to my human user guide, inspired by Chris Young. I'm a web developer and
 
 ## Energy
 
-I'm as fluid as a good Product Requirement Document, and I attribute this character with having worked in different continents. I have come to realize that entering a new work place or work environment is like visiting a new country, it's a collection of people from different places, background, work ethic, mindset and more, you don't know what to expect in terms of work relationships but you have to be cordial, first and foremost. Then, you have to learn to make it work, I have learnt to always make it work. My work energy is to get things done as quickly as possible, to either learn fast or progress fast, there's no failure. I approach problem solving at work with a notion of trying to understand the problem prior to jumping into research or solution, I like to make sure that the problem is an actual problem and not one that is just perceived by me and the team. It's me/product team/development team/marketing team/stakeholder vs the problem, not vs each other. This is my work energy.
+I'm as fluid as a good Product Requirement Document, and I attribute this character with having worked in different continents. I have come to realize that entering a new work place or work environment is like entering a new country, it's a collection of people from different places, background, work ethic, mindset and more, you don't know what to expect in terms of work relationships but you have to be cordial, first and foremost. Then, you have to learn to make it work, I have learnt to always make it work. My work energy is to get things done as quickly as possible, to either learn fast or progress fast, there's no failure. I approach problem solving at work with a notion of trying to understand the problem prior to jumping into research or solution, I like to make sure that the problem is an actual problem and not one that is just perceived by me and the team. It's me/product team/development team/marketing team/stakeholder vs the problem, not vs each other. This is my work energy.
 
 ## Feedback
 
@@ -25,7 +25,7 @@ I prefer honesty when receiving feedbacks as that's the only way I can improve. 
 
 ## Learning 
 
-I enjoy learning from my colleagues and never see them as a competition, we're working towards a common company goal so if you need to correct me, you're literally teaching me and I won't make the mistake again. So, thank you!
+I enjoy learning from my colleagues and never see them as a competition, we're working towards a common company goal so if you need to correct me, you're literally teaching me, and I won't make the mistake again. So, thank you!
 
 ## Tech
 
